@@ -19,7 +19,7 @@ public class CalculatorMain {
 		// TODO Auto-generated method stub
 		if(b==0) {
 			return 0;
-//s sadjpasdksada
+
 		}
 		return a/b;
 
